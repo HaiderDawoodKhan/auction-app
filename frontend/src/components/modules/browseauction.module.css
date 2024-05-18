@@ -1,0 +1,58 @@
+ 
+  .auction_card {
+    display: flex;
+    border: none;
+    /* Remove border for a cleaner look */
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    /* Match container background */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+  }
+  
+  .item_image {
+    width: 150px;
+    /* Adjusted for balance */
+    height: 150px;
+    /* Uniform height */
+    object-fit: cover;
+    /* Ensure images cover the area nicely */
+    border-radius: 10px;
+    /* Rounded corners for images */
+    margin-right: 20px;
+  }
+  
+  .auction_details {
+    flex: 1;
+  }
+  
+  .auction_title,
+  .description,
+  p {
+    color: #333;
+    /* Darker text for better readability */
+  }
+  
+  .auction_title {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 24px;
+    /* Larger title for emphasis */
+  }
+  
+  .description {
+    margin-bottom: 15px;
+    /* More spacing for clarity */
+    font-size: 16px;
+    /* Slightly larger for readability */
+  }
+
+  .auctionLink{
+    text-decoration: none;
+  }
+  .auctionLink :hover{
+    color:blue;
+    text-decoration: underline;
+  }
