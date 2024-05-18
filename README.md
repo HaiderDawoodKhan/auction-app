@@ -67,7 +67,7 @@ This project is a full-stack MERN web application. It is an auction app that sup
      ```
 
 3. **Set Up Environment Variables**:
-   - Create a `.env` file in the `server` directory and add the following:
+   - Create a `.env` file in the `backend` directory and add the following:
      ```plaintext
      MONGO_URI=your_mongoDB_connection_string     ```
 
