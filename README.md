@@ -28,19 +28,19 @@ This project is a full-stack MERN web application. It is an auction app that sup
 
 1. **Sign Up / Log In**: Create an account or log in with existing credentials.
 
-<img width="1466" alt="Screenshot 2024-05-18 at 8 18 58 PM" src="https://github.com/HaiderDawoodKhan/auction-app/assets/157682455/032ee51f-c7fb-4a2c-a23a-a66aea041a63">
+<img width="736" alt="Screenshot 2024-05-18 at 8 18 58 PM" src="https://github.com/HaiderDawoodKhan/auction-app/assets/157682455/032ee51f-c7fb-4a2c-a23a-a66aea041a63">
 
 2. **Create Auctions**: Navigate to the create auction page and fill in the required details to create an auction.
 
-<img width="1454" alt="Screenshot 2024-05-18 at 8 20 25 PM" src="https://github.com/HaiderDawoodKhan/auction-app/assets/157682455/67053de7-f285-4bf2-8cc5-b0fed6d95e83">
+<img width="736" alt="Screenshot 2024-05-18 at 8 20 25 PM" src="https://github.com/HaiderDawoodKhan/auction-app/assets/157682455/67053de7-f285-4bf2-8cc5-b0fed6d95e83">
 
 3. **Browse Auctions**: View the list of available auctions and click on any auction to view details.
 
-<img width="730" alt="Screenshot 2024-05-18 at 8 21 33 PM" src="https://github.com/HaiderDawoodKhan/auction-app/assets/157682455/28b041a5-b933-47ff-933d-f15b399ce64a">
+<img width="736" alt="Screenshot 2024-05-18 at 8 21 33 PM" src="https://github.com/HaiderDawoodKhan/auction-app/assets/157682455/28b041a5-b933-47ff-933d-f15b399ce64a">
 
 4. **Place Bids**: Participate in an auction by placing bids in real-time.
 
-<img width="1465" alt="Screenshot 2024-05-18 at 8 22 03 PM" src="https://github.com/HaiderDawoodKhan/auction-app/assets/157682455/76f0637e-7282-4fa8-85a2-67343dc7c4bf">
+<img width="736" alt="Screenshot 2024-05-18 at 8 22 03 PM" src="https://github.com/HaiderDawoodKhan/auction-app/assets/157682455/76f0637e-7282-4fa8-85a2-67343dc7c4bf">
 
 5. **Win Items**: If your bid is the highest when the auction ends, you win the item (visible in profile).
 
